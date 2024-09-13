@@ -1,0 +1,22 @@
+{
+  "name": "hard2737-lib",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": ["david", "hardy", "library"],
+  "author": "hard2737",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.6.2"
+  },
+  "files":[
+    "dist/",
+    "src/",
+    "README.md"
+  ]
+}
